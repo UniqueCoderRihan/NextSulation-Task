@@ -20,7 +20,7 @@ const Navbar = () => {
         <li className='text-3xl'><Link>Contact</Link></li>
     </>
     return (
-        <div className="navbar bg-base-200 rounded-lg ">
+        <div className="navbar bg-base-300 mb-2 rounded-lg ">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
