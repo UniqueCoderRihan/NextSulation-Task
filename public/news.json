@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "New Trends in E-Commerce: AI and Personalization",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "John Smith",
+        "publish_date": "2023-07-18"
+    },
+    {
+        "id": 2,
+        "title": "The Impact of Cryptocurrency on Online Shopping",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "Emily Johnson",
+        "publish_date": "2023-07-17"
+    },
+    {
+        "id": 3,
+        "title": "Rising E-Commerce Startups: Success Stories and Challenges",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "Michael Lee",
+        "publish_date": "2023-07-16"
+    },
+    {
+        "id": 4,
+        "title": "The Future of Online Retail: Virtual Reality Shopping",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "Sophia Chen",
+        "publish_date": "2023-07-15"
+    },
+    {
+        "id": 5,
+        "title": "E-Commerce Security: Best Practices to Protect Customer Data",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "David Miller",
+        "publish_date": "2023-07-14"
+    },
+    {
+        "id": 6,
+        "title": "E-Commerce Security: Best Practices to Protect Customer Data",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "David Miller",
+        "publish_date": "2023-07-14"
+    },
+    {
+        "id": 7,
+        "title": "E-Commerce Security: Best Practices to Protect Customer Data",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "David Miller",
+        "publish_date": "2023-07-14"
+    },
+    {
+        "id": 8,
+        "title": "E-Commerce Security: Best Practices to Protect Customer Data",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "David Miller",
+        "publish_date": "2023-07-14"
+    },
+    {
+        "id": 9,
+        "title": "E-Commerce Security: Best Practices to Protect Customer Data",
+        "article": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris id purus euismod luctus. Nunc eget risus nec nisi lacinia rhoncus vel in felis. Aenean tincidunt augue vel tortor suscipit, non gravida urna venenatis. Vivamus ultrices odio a odio facilisis bibendum. Proin iaculis dolor a dolor bibendum, et faucibus justo sagittis. In hac habitasse platea dictumst. Nam in ultricies nisi, vel interdum elit. Maecenas sit amet quam a elit ultricies placerat. Sed ac ipsum blandit, aliquam arcu ac, posuere tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer tincidunt neque justo. Nullam ut enim nec lectus dictum aliquam. Sed auctor nisl nec felis congue, at posuere nunc posuere. Aliquam gravida consectetur velit. In vitae odio nec lectus varius auctor a eget ex. Duis bibendum turpis id libero hendrerit, nec sollicitudin mauris posuere. Phasellus tincidunt nulla non nunc euismod aliquam. Fusce volutpat nulla ut nisi gravida, eget fringilla tellus pellentesque",
+        "img": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1112&q=80",
+        "author": "David Miller",
+        "publish_date": "2023-07-14"
+    }
+]

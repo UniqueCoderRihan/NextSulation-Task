@@ -1,16 +1,13 @@
 import React from 'react';
 import Navbar from '../Components/Navbar/Navbar';
-import Banner from '../Components/Banner/Banner';
-import Products from '../Components/Products/Products';
+import { Outlet } from 'react-router-dom';
 
 
 const Main = () => {
     return (
         <div>
             <Navbar></Navbar>
-            <Banner></Banner>
-            <Products></Products>
-            
+            <Outlet></Outlet>
         </div>
     );
 };
