@@ -7,11 +7,10 @@ const Navbar = () => {
         <li className='text-3xl' tabIndex={0}>
             <details>
                 <summary>Products</summary>
-                <ul className="p-2">
-                    <li><a>Submenu 1</a></li>
-                    <li><a>Submenu 2</a></li>
-                    <li><a>Submenu 3</a></li>
-                    <li><a>Submenu 4</a></li>
+                <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+                    <li className='text-3xl'> <Link>About</Link> </li>
+                    <li className='text-3xl'><Link>Team</Link></li>
+                    <li className='text-3xl'><Link>Contact</Link></li>
                 </ul>
             </details>
         </li>
@@ -37,7 +36,7 @@ const Navbar = () => {
                     {items}
                 </ul>
             </div>
-            
+
         </div>
     );
 };
