@@ -8,9 +8,9 @@ const Navbar = () => {
             <details>
                 <summary>Products</summary>
                 <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                    <li className='text-3xl'> <Link>About</Link> </li>
-                    <li className='text-3xl'><Link>Team</Link></li>
-                    <li className='text-3xl'><Link>Contact</Link></li>
+                    <li className='text-3xl'> <Link>Comming Soon</Link> </li>
+                    <li className='text-3xl'><Link>Comming Soon</Link></li>
+                    <li className='text-3xl'><Link>Comming Soon</Link></li>
                 </ul>
             </details>
         </li>
